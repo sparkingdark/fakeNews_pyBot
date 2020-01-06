@@ -1,0 +1,2 @@
+https://github.com/rockash/Fake-news-Detection
+https://github.com/holwech/NewsScraper
