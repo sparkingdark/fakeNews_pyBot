@@ -1,0 +1,14 @@
+Train on 16090 samples, validate on 4153 samples
+Epoch 1/6
+16090/16090 [==============================] - 26s 2ms/step - loss: 0.4353 - accuracy: 0.7994 - val_loss: 0.3998 - val_accuracy: 0.8235
+Epoch 2/6
+16090/16090 [==============================] - 25s 2ms/step - loss: 0.1909 - accuracy: 0.9334 - val_loss: 0.1933 - val_accuracy: 0.9278
+Epoch 3/6
+16090/16090 [==============================] - 27s 2ms/step - loss: 0.0922 - accuracy: 0.9685 - val_loss: 0.3357 - val_accuracy: 0.8531
+Epoch 4/6
+16090/16090 [==============================] - 27s 2ms/step - loss: 0.0503 - accuracy: 0.9831 - val_loss: 0.2115 - val_accuracy: 0.9292
+Epoch 5/6
+16090/16090 [==============================] - 27s 2ms/step - loss: 0.0209 - accuracy: 0.9951 - val_loss: 0.2187 - val_accuracy: 0.9372
+Epoch 6/6
+16090/16090 [==============================] - 26s 2ms/step - loss: 0.0484 - accuracy: 0.9835 - val_loss: 0.2475 - val_accuracy: 0.9412
+Accuracy= 94.12%
